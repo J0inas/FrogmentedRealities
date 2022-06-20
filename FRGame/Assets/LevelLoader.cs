@@ -10,7 +10,7 @@ public class LevelLoader : MonoBehaviour
     public float transitionTime = 1f;
 
     // when first level then also transition
-    void LoadFirstLevel()
+    public void LoadFirstLevel()
     {
         LoadNextLevel(1);
     }
