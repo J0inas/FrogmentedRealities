@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Marketplace.unity
-=======
-- path: Assets/Scenes/Dim1.unity
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
+- path: Assets/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
