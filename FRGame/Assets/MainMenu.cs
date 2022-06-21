@@ -18,5 +18,8 @@ public class MainMenu : MonoBehaviour
         Debug.Log("Beendet");
         Application.Quit();
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 }
