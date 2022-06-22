@@ -206,11 +206,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-<<<<<<< HEAD
-      - m_Target: {fileID: 313473077}
-=======
       - m_Target: {fileID: 0}
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
@@ -307,18 +303,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 313473075}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< HEAD
-  m_Script: {fileID: 11500000, guid: 154618555949bd348b542a5a66b05aa7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  buildIndex: 1
-=======
   m_Script: {fileID: 11500000, guid: 914587f3fc2716744b78e227f0a7f84b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   transition: {fileID: 1001501023}
   transitionTime: 2
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 --- !u!1 &390507380
 GameObject:
   m_ObjectHideFlags: 0
@@ -413,11 +402,7 @@ RectTransform:
   - {fileID: 1803965528}
   - {fileID: 313473076}
   m_Father: {fileID: 0}
-<<<<<<< HEAD
-  m_RootOrder: 1
-=======
   m_RootOrder: 2
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -435,10 +420,7 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
-<<<<<<< HEAD
-=======
   - component: {fileID: 519420030}
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -454,8 +436,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
-<<<<<<< HEAD
-=======
 --- !u!82 &519420030
 AudioSource:
   m_ObjectHideFlags: 0
@@ -552,7 +532,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -608,11 +587,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
-  m_RootOrder: 0
-=======
   m_RootOrder: 1
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &659505456
 GameObject:
@@ -698,13 +673,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 313473077}
-<<<<<<< HEAD
-        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: PlayGame
-=======
         m_TargetAssemblyTypeName: LevelLoader, Assembly-CSharp
         m_MethodName: LoadFirstLevel
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -752,8 +722,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 659505456}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
-=======
 --- !u!1001 &1001501022
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -839,7 +807,6 @@ Animator:
     type: 3}
   m_PrefabInstance: {fileID: 1001501022}
   m_PrefabAsset: {fileID: 0}
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 --- !u!1 &1242793693
 GameObject:
   m_ObjectHideFlags: 0
@@ -1054,11 +1021,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
-  m_RootOrder: 2
-=======
   m_RootOrder: 3
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2108689144
 GameObject:

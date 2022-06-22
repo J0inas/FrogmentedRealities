@@ -351,8 +351,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-=======
 --- !u!114 &826531997 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6295563689846231319, guid: 175b1ec2cda93894da3a5023c01ebb8c,
@@ -365,7 +363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9efed284f1886469c153e0dbb0b3cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 --- !u!1 &973385056
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,11 +377,8 @@ GameObject:
   - component: {fileID: 973385059}
   - component: {fileID: 973385058}
   - component: {fileID: 973385057}
-<<<<<<< HEAD
-=======
   - component: {fileID: 973385063}
   - component: {fileID: 973385064}
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -529,8 +523,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-=======
 --- !u!114 &973385063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -642,7 +634,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 --- !u!1 &1145598546
 GameObject:
   m_ObjectHideFlags: 0
@@ -770,8 +761,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-=======
 --- !u!1001 &1698543647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -901,7 +890,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 175b1ec2cda93894da3a5023c01ebb8c, type: 3}
->>>>>>> 85ed4dce15eea664926cf1a83974b53d9e064f7c
 --- !u!1 &2035214282
 GameObject:
   m_ObjectHideFlags: 0
