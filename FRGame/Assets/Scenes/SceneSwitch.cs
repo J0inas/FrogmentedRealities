@@ -10,8 +10,9 @@ public class SceneSwitch : MonoBehaviour
     public int sceneBuildIndex;
     public int currentScene;
     public int portal;
+    //public GameObject player;
 
-    void OnTriggerStay2D(Collider2D collision)
+    public void OnTriggerStay2D(Collider2D collision)
     {
         // if und else if für die einzelnen Szenen die switchen, nicht effektiv, aber ok i guess
         // wäre sinnvoll es durch nen switch in some sort zu ersetzen
@@ -19,24 +20,8 @@ public class SceneSwitch : MonoBehaviour
         // what about transformations??
         if(collision.tag == "Player")
         {   
-            if(portal == 0 && currentScene == 1)
-            {
-                Invoke("LoadScene", 3); // hier muss das rein mit WOHIN man sich warpt
-            }
-            else if (portal == 1 && currentScene == 1)
-            {
-                Invoke("LoadScene", 3);
-            }
-            else if (portal == 2 && currentScene == 1)
-            {
-                Invoke("LoadScene", 3);
-            }
-            // and so on
             Invoke("LoadScene", 3);
-        } 
-        
-       
-        
+        }  
 
     }
 
@@ -50,4 +35,10 @@ public class SceneSwitch : MonoBehaviour
         SceneManager.LoadScene(sceneBuildIndex, LoadSceneMode.Single);
     }
 
+   /* IEnumerator Teleport(float a, float b, float c)
+    {
+        yield return new WaitForSeconds(1);
+        player.transform.position = new Vector3(a, b, c);
+    }
+   */
 }

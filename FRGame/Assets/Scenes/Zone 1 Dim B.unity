@@ -92891,9 +92891,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2618ed185634aca45b5dce0f26836440, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneBuildIndex: 1
+  sceneBuildIndex: 3
   currentScene: 2
   portal: 1
+  player: {fileID: 0}
 --- !u!70 &1210283089
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -93068,6 +93069,7 @@ MonoBehaviour:
   sceneBuildIndex: 1
   currentScene: 2
   portal: 2
+  player: {fileID: 0}
 --- !u!70 &1627214935
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -93184,6 +93186,7 @@ MonoBehaviour:
   sceneBuildIndex: 1
   currentScene: 2
   portal: 0
+  player: {fileID: 0}
 --- !u!70 &2001053240
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -93300,6 +93303,7 @@ MonoBehaviour:
   sceneBuildIndex: 2
   currentScene: 0
   portal: 0
+  player: {fileID: 0}
 --- !u!70 &2069144852
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

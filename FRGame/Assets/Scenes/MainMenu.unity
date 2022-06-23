@@ -307,7 +307,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transition: {fileID: 1001501023}
-  transitionTime: 2
+  transitionTime: 3
 --- !u!1 &390507380
 GameObject:
   m_ObjectHideFlags: 0
@@ -742,7 +742,7 @@ PrefabInstance:
     - target: {fileID: 5540795699167868046, guid: 944e6995a7d5ec346849885d06166cd4,
         type: 3}
       propertyPath: transitionTime
-      value: 30
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5540795699167868047, guid: 944e6995a7d5ec346849885d06166cd4,
         type: 3}
