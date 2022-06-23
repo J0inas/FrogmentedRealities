@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Home.unity
+=======
+- path: Assets/Scenes/Zone 1 Dim A.unity
+>>>>>>> 4537b0bf5d2f6a7f8a2becbf97015026d6518b98
   isLoaded: 1
   isActive: 1
   isSubScene: 0
