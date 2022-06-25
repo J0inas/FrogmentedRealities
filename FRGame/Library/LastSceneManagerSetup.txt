@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Creator Kit - RPG/Scenes/Zone 2 Dim B.unity
+- path: Assets/Scenes/Marketplace.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
