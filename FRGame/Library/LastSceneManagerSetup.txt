@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Creator Kit - RPG/Scenes/SampleScene.unity
-=======
-- path: Assets/Scenes/Home.unity
->>>>>>> refs/remotes/origin/main
+- path: Assets/Creator Kit - RPG/Scenes/Zone 2 Dim B.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
