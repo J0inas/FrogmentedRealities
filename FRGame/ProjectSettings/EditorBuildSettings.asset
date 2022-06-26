@@ -12,6 +12,42 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
     path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim A.unity
     guid: c7c79018bbdf85042a0ae8f15ba917ff
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim B.unity
+    guid: 2ea7383a0a8af431080e0aa251ee7115
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim A - Kopie.unity
+    guid: 8ddc3f9209d5db64ca60359031672ad4
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim B - Kopie.unity
+    guid: bb473101a60f0f04e8565c5f20931f63
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim A - Kopie (2).unity
+    guid: 08c6a18865d48d649a733c364c68c8c8
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim B - Kopie (2).unity
+    guid: ebdb5211726f9cc4db13569a09917d60
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim A - Kopie (3).unity
+    guid: f43ce2f350583ce47bb762afb21cc65f
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim B - Kopie (3).unity
+    guid: f8373fad0a91977448d416b164f307ff
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim A - Kopie (4).unity
+    guid: 15dc8bdca9331524e9e0291690c18062
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim B - Kopie (4).unity
+    guid: b9d84b97dc60f5441a51b5433f7af897
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 2 Dim A.unity
+    guid: a194898524bf634499b88e0d0f527f2d
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Zone 2 Dim B.unity
+    guid: 83a5342376e57d24ca1bc264c9dc0c56
   m_configObjects: {}

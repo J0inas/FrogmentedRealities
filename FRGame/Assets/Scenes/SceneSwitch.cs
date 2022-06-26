@@ -8,8 +8,6 @@ public class SceneSwitch : MonoBehaviour
 {
 
     public int sceneBuildIndex;
-    public int currentScene;
-    public int portal;
     //public GameObject player;
 
     public void OnTriggerStay2D(Collider2D collision)
@@ -20,9 +18,10 @@ public class SceneSwitch : MonoBehaviour
         // what about transformations??
         if(collision.tag == "Player")
         {   
-            Invoke("LoadScene", 3);
+            Invoke("LoadScene", 2);
         }  
-
+         
+       
     }
 
     private void OnTriggerExit2D(Collider2D collision)
