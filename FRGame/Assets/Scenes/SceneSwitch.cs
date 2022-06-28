@@ -29,15 +29,21 @@ public class SceneSwitch : MonoBehaviour
         CancelInvoke();
     }
 
-    void LoadScene()
+    public void LoadScene()
     {
         SceneManager.LoadScene(sceneBuildIndex, LoadSceneMode.Single);
     }
 
-   /* IEnumerator Teleport(float a, float b, float c)
+    public void QuitGame()
     {
-        yield return new WaitForSeconds(1);
-        player.transform.position = new Vector3(a, b, c);
+        Debug.Log("Beendet");
+        Application.Quit();
     }
-   */
+
+    /* IEnumerator Teleport(float a, float b, float c)
+     {
+         yield return new WaitForSeconds(1);
+         player.transform.position = new Vector3(a, b, c);
+     }
+    */
 }
