@@ -25,13 +25,18 @@ public class PlayerHealth : MonoBehaviour
 
     void Update()
     {
-        // way to test healthbar
-       if (Input.GetKeyDown(KeyCode.Space))
+        healthBar.SetHealth(currentHealth);
+        PlayerPrefs.SetInt("health", currentHealth);    // setting health to find it later when scenec
+    }
+
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Enemy")
         {
             Damage(1);
         }
-        healthBar.SetHealth(currentHealth);
-        PlayerPrefs.SetInt("health", currentHealth);    // setting health to find it later when scenec
+
+
     }
 
     // simple function to do damage
