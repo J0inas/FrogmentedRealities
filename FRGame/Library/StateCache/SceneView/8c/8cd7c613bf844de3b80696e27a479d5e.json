@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":12.507787704467774,"y":9.949698448181153,"z":-7.382204532623291},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.602224349975586,"orthographic":true}
-=======
-<<<<<<< HEAD
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":1.3891793489456177,"y":12.339648246765137,"z":-3.095750331878662},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":7.521327972412109,"orthographic":true}
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":40.079376220703128,"y":50.74018859863281,"z":-449.33013916015627},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":19.473176956176759,"orthographic":true}
->>>>>>> refs/remotes/origin/main
->>>>>>> refs/remotes/origin/main
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":37.20756912231445,"y":44.44426727294922,"z":-1121.81494140625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":9.867461204528809,"orthographic":true}

@@ -1,13 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Marketplace.unity
-=======
-<<<<<<< HEAD
-- path: Assets/Creator Kit - RPG/Scenes/Zone 1 Dim A - Kopie (3).unity
-=======
-- path: Assets/Creator Kit - RPG/Scenes/Zone 3 Dim A.unity
->>>>>>> refs/remotes/origin/main
->>>>>>> refs/remotes/origin/main
+- path: Assets/Creator Kit - RPG/Scenes/Zone 3 Dim B.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
