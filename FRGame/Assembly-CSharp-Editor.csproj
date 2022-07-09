@@ -300,6 +300,30 @@
  <HintPath>D:/Programme/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
+<<<<<<< HEAD
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.analytics@3.5.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Plastic.Antlr3.Runtime">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="log4netPlastic">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Tracker">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="unityplastic">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+=======
  <HintPath>C:/Users/Lukas/Desktop/Studium/Semester_4/Grundlagen Game Design/latest push/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
@@ -322,6 +346,7 @@
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>C:/Users/Lukas/Desktop/Studium/Semester_4/Grundlagen Game Design/latest push/FrogmentedRealities/FRGame/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+>>>>>>> refs/remotes/origin/main
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>D:/Programme/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -672,6 +697,135 @@
  <HintPath>D:/Programme/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
+<<<<<<< HEAD
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TestRunner">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEngineBridge.001">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VSCode.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.PixelPerfect">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="PsdPlugin">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Tilemap.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VisualStudio.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.IK.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Psdimporter.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Path.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEditorBridge.001">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PlasticSCM.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Analytics">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTracking">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.IK.Runtime">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Triangle.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Runtime">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.PixelPerfect.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Monetization">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Runtime">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.SpatialTracking">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Advertisements.Editor">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Runtime">
+ <HintPath>D:/Uni/Semester4/GameDesign Grundlagen/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+=======
  <HintPath>C:/Users/Lukas/Desktop/Studium/Semester_4/Grundlagen Game Design/latest push/FrogmentedRealities/FRGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
@@ -799,6 +953,7 @@
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
  <HintPath>C:/Users/Lukas/Desktop/Studium/Semester_4/Grundlagen Game Design/latest push/FrogmentedRealities/FRGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+>>>>>>> refs/remotes/origin/main
  </Reference>
   </ItemGroup>
   <ItemGroup>
